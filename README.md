@@ -1,16 +1,19 @@
 Bank Management System
 
-Java + MySQL Banking System that supports:
+This is a Java + MySQL based banking application that allows users to manage bank accounts and perform basic banking operations.
 
-Create customer
-Create account
-Deposit and withdraw money
-View balance and transactions
-List all accounts
+Features
 
-How to run:
-Install MySQL and create database bank_db.
-Run SQL script: sql/create_tables.sql.
-Compile Java code:
-Run the program:
-Enjoy the banking system.
+Create a new customer
+
+Create a bank account
+
+Deposit money
+
+Withdraw money
+
+Check account balance
+
+View transaction history
+
+List all existing accounts
